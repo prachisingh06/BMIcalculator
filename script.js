@@ -30,7 +30,7 @@ if(18.6 > BMI){
     message.innerHTML="this is under weigth"
 }
 else if(24.9 > BMI){
- message.innerHTML ="thie is normal range"
+ message.innerHTML ="this is normal range"
 }
 else{
     message.innerHTML="this is overweigth"
